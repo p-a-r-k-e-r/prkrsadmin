@@ -1,1 +1,1 @@
-local versionNumber = "v.0.01"
+_G.versionNumber = "v.0.01"
