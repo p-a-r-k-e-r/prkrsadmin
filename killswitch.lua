@@ -1,1 +1,1 @@
-_G.CLOSED = false
+_G.CLOSED = true
